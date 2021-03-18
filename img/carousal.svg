@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 14" width="48" height="14">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #212121 } 
+		.shp1 { fill: #212121 } 
+	</style>
+	<g id="New Work">
+		<g id="Body">
+			<g id="Testimonial">
+				<g id="carousal">
+					<path id="3" class="shp0" d="M35 1L48 1L48 14L35 14L35 1Z" />
+					<path id="2" class="shp1" d="M18 1L31 1L31 14L18 14L18 1Z" />
+					<path id="1" class="shp0" d="M1 1L14 1L14 14L1 14L1 1Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
